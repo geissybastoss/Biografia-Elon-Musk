@@ -1,0 +1,29 @@
+body {
+    background-color: #ebe9e9;
+    text-align: justify;
+    margin: 20px;
+}
+
+nav {
+    background-color:#dcd9d9;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.div1 header {
+    display: block;
+    justify-content:center;
+    text-align:center;
+}
+
+.imagemBio img {
+    width: 500px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.2);
+    margin-left: 500px; 
+}
+
